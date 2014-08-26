@@ -1,5 +1,3 @@
-[![browser support](https://ci.testling.com/mattdesl/gl-texture2d-pixels.png)](https://ci.testling.com/mattdesl/gl-texture2d-pixels)
-
 # gl-texture2d-pixels
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
