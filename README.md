@@ -19,10 +19,6 @@ console.log(array.length === (texture.shape[0] * texture.shape[1] * 4)) //true
 
 [![NPM](https://nodei.co/npm/gl-texture2d-pixels.png)](https://nodei.co/npm/gl-texture2d-pixels/)
 
-## Usage
-
-[![NPM](https://nodei.co/npm/get-image-pixels.png)](https://nodei.co/npm/get-image-pixels/)
-
 ### `getPixels(texture[, opts])`
 
 Gets the RGBA pixels from [gl-texture2d](https://www.npmjs.org/package/gl-texture2d) object as a Uint8Array with some optional parameters.
