@@ -4,7 +4,7 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-Gets the RGBA pixel array from a gl-texture2d as a Uint8Array. Same API as [get-image-pixels](https://github.com/mattdesl/get-image-pixels).
+Gets the RGBA pixels from a [gl-texture2d](https://www.npmjs.org/package/gl-texture2d) as a Uint8Array. Same API as [get-image-pixels](https://github.com/mattdesl/get-image-pixels).
 
 ```js
 var getPixels = require('gl-texture2d-pixels')
