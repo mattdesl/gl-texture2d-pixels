@@ -13,7 +13,7 @@ var array = getPixels(texture)
 console.log(array.length === (texture.shape[0] * texture.shape[1] * 4)) //true
 ```
 
-*Note:* This is a fairly expensive operation in OpenGL. :) 
+**Note:** This is a fairly expensive operation in OpenGL. 
 
 ## Usage
 
